@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+
+<body>
+  
+  <form action="" id="Formulario" class="mostrar">
+     <h3>Formulario de Autenticación</h3>
+     <div class="form_container">
+      <div class="form_group">
+    <input type="email" placeholder="Escribe tu email" id="email" />
+    <br>
+    <input type="password" placeholder="Escribe tu password" id="password" />
+    <br><br>
+    <input type="button" value="Registrar" id="btnRegistrar" />
+    <input type="button" value="Iniciar Sesion" id="btnIniciarSesion" />
+    <br> <br>
+    <p class="texto"> ¿Olvidaste tu contraseña?<a href="a" class="link">Entra aquí</a></a></p>
+    </div>
+    </div>
+     <br>
+    <img src="icono/ff.webp" alt="boton google" width="40px" id="btnFacebook" />
+    <img src="icono/nn.png" alt="boton google" width="40px" id="btnGoogle" />
+  </form>
+  <div class="container ocultar" id="contenidoDeLaWeb">
+    <div class="portada"> 
+      <button class="boton_sesion">
+        <img src="icono/cerrar-sesion.png" alt="sesion" width="30px"  value="Cerrar Sesion" id="btnCS"  >
+      </button> <button class="carrito">
+         <img src="icono/carrito.png" alt="carrito" width="30px" id="btnCarrito" />
+    </button>
+    </div>
+        <h2>Bienvenid@ al contenido de mi web</h2>
+       
+
+    <div class="resultado" id="resultado"></div>
+    <br> <br>
+    <div class="pago">
+    <h1>HAZ TUS COMPRAS FÁCILMENTE</h1>
+    <br>
+    <h4>CON TOTAL SEGURIDAD Y PRIVACIDAD</h4>
+    <br>
+    <p><img src="icono/medios.png" width="400px"></p> 
+    </div> 
+
+      <div class="texto">
+      <h1>Siguenos ...</h1>
+      <br>
+      <p><img src="icono/instagram.png" width="30px"><a href="https://www.instagram.com/lady.scp/">  Lady.scp </a></p> 
+      <p><img src="icono/facebook.png" width="30px"><a href="https://www.facebook.com/ninita.lokita1"> Demii Soca</a></p>
+      <p><img src="icono/whatsapp.png" width="30px"><a href=" https://wa.me/976868222"> 976868222</a></p>
+      </div>
+
+        <div class="comentarios">
+          <h1>Dejanos tu comentario</h1>
+          <br>
+        <input type="text" placeholder="Escribe el titulo" id="txtTitulo">
+        <br><br>
+        <input type="text" placeholder="Escribe la descripcion" id="txtDescripcion">
+        <br><br>
+        <input type="button" value="Publicar" id="btnPublicar">
+        </div>
+  </div>
+
+  
+  <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js"></script>
+
+  <script src="main.js"></script>
+  <div>
+
+  </div>
+</body>
+
+</html>

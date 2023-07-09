@@ -1,0 +1,79 @@
+[   {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/646x1000/UN55AU7090G_1.jpg",
+        "marca":"TV Samsung 55' 4K UHD Smart Tizen",
+        "precio":1299.00
+  },
+{
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/UN65AU7090G_1.jpg",
+        "marca":"TV Samsung 65' 4K UHD Smart Tizen",
+        "precio":1599.00
+    
+},
+{
+    
+       "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/UN50AU7090GXPE_1.jpg",
+       "marca":"TV Samsung 50' 4K UHD Smart Tizen",
+       "precio":1200.00
+},
+{
+    
+       "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/55UR7300PSA_1.jpg" ,
+       "marca":"TV LG 55' 4K UHD Smart ThinQ AI",
+       "precio":1399.00
+    
+},
+{
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/65UR8750PSA_1.jpg",
+        "marca":"TV LG 65' 4K UHD Smart ThinQ AI",
+        "precio":1999.00
+  
+},
+
+{
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/55A6H_1.jpg",
+        "marca":"TV Hisense 55' 4K UHD Smart Vidaa",
+        "precio":1049.00
+   
+},
+{
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/QN65QN700BG_1.jpg",
+        "marca":"TV Samsung 65' NEO QLED 8K UHD Smart Tizen",
+        "precio":7399.00
+  },
+  {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/QN55Q60BAG_1.jpg",
+        "marca":"TV Samsung 55' QLED 4K UHD Smart Tizen",
+        "precio":1899.00
+  },
+  {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/OLED55C3PSA_1.jpg",
+        "marca":"TV LG 65' OLED 4K UHD Smart OLED",
+        "precio":4999.00
+  },
+  {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/HYLED5524G4KM_1.jpg",
+        "marca":"TV Hyundai 55' LED 4K UHD Smart HYLED",
+        "precio":1999.00
+  },
+  {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/TV043XIA05_1.jpg",
+        "marca":"TV Hisense 55' 4K UHD Smart Vidaa",
+        "precio":799.00
+  },
+  {
+    
+        "img": "https://www.efe.com.pe/wcsstore/efe_cat_as/200x310/50A6H_1.jpg",
+        "marca":"TV Hisense 55' 4K UHD Smart Vidaa",
+        "precio":949.00
+  }
+
+]
